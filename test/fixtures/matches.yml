@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idApi: 1
+  kill: 1
+  position: 1
+  score: 1
+  player: one
+
+two:
+  idApi: 1
+  kill: 1
+  position: 1
+  score: 1
+  player: two

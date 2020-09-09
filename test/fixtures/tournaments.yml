@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  desciption: MyString
+  date_start: 2020-09-08 23:29:31
+  user_id: 1
+
+two:
+  name: MyString
+  desciption: MyString
+  date_start: 2020-09-08 23:29:31
+  user_id: 1
